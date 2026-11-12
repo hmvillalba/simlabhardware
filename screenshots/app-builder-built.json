@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "TallerPC",
+      "hasCanvas": false,
+      "bodyTextLen": 2738,
+      "bodyTextHash": "13db38b6b2b14de3aa732a204cfde049c0b464d86f54bfe3aecce3203955376e",
+      "bodyTextPrefix": "BANCO DE HARDWARE TallerPC Escritorio Notebook No hace POST Ence",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "TallerPC",
+      "hasCanvas": false,
+      "bodyTextLen": 2276,
+      "bodyTextHash": "52997f004ec84817edc92de03177ab67e1c032b1c702b07b2e697b117ac8bb60",
+      "bodyTextPrefix": "BANCO DE HARDWARE TallerPC Escritorio Notebook Encender Guía Arm",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
